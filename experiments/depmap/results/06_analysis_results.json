@@ -1,0 +1,331 @@
+{
+  "best_N": 200000,
+  "degree_dependence": {
+    "degree_stats": {
+      "mean": 22.566995768688294,
+      "median": 0.0,
+      "max": 1556
+    },
+    "quintiles": [
+      {
+        "quintile": 1,
+        "lo": 380.0,
+        "hi": 484.5,
+        "n_pairs": 39861,
+        "mean_pam": 0.9130768775939941,
+        "mean_cos": 0.9052974182868488,
+        "mean_improvement": 0.007779446314376541
+      },
+      {
+        "quintile": 2,
+        "lo": 484.5,
+        "hi": 549.0,
+        "n_pairs": 39962,
+        "mean_pam": 0.907700777053833,
+        "mean_cos": 0.8993962956419645,
+        "mean_improvement": 0.008304477596526872
+      },
+      {
+        "quintile": 3,
+        "lo": 549.0,
+        "hi": 619.5,
+        "n_pairs": 40133,
+        "mean_pam": 0.9042066931724548,
+        "mean_cos": 0.9040854662963906,
+        "mean_improvement": 0.00012118743716484057
+      },
+      {
+        "quintile": 4,
+        "lo": 619.5,
+        "hi": 724.0,
+        "n_pairs": 39976,
+        "mean_pam": 0.8915161490440369,
+        "mean_cos": 0.9170559376594934,
+        "mean_improvement": -0.025539855124971932
+      },
+      {
+        "quintile": 5,
+        "lo": 724.0,
+        "hi": 1516.5,
+        "n_pairs": 40068,
+        "mean_pam": 0.8783456087112427,
+        "mean_cos": 0.9401062595099884,
+        "mean_improvement": -0.06176064571714761
+      }
+    ],
+    "spearman_rho": -0.3310466004975862,
+    "spearman_pval": 0.0
+  },
+  "poster_children": [
+    {
+      "rank": 1,
+      "gene_a": "TICRR",
+      "gene_b": "TTC27",
+      "pam_score": 0.9981134533882141,
+      "cosine": 0.1399371600829466,
+      "improvement": 0.8581762933052675,
+      "in_string_700": false
+    },
+    {
+      "rank": 2,
+      "gene_a": "TICRR",
+      "gene_b": "VARS1",
+      "pam_score": 0.9972466826438904,
+      "cosine": 0.15987281976190784,
+      "improvement": 0.8373738628819826,
+      "in_string_700": false
+    },
+    {
+      "rank": 3,
+      "gene_a": "TICRR",
+      "gene_b": "TRAPPC3",
+      "pam_score": 0.9958963990211487,
+      "cosine": 0.04262389806411095,
+      "improvement": 0.9532725009570377,
+      "in_string_700": false
+    },
+    {
+      "rank": 4,
+      "gene_a": "TICRR",
+      "gene_b": "YKT6",
+      "pam_score": 0.9955947995185852,
+      "cosine": 0.05640567600579512,
+      "improvement": 0.93918912351279,
+      "in_string_700": false
+    },
+    {
+      "rank": 5,
+      "gene_a": "TICRR",
+      "gene_b": "TUBGCP2",
+      "pam_score": 0.9938592314720154,
+      "cosine": 0.11355725690076468,
+      "improvement": 0.8803019745712507,
+      "in_string_700": false
+    },
+    {
+      "rank": 6,
+      "gene_a": "TANGO6",
+      "gene_b": "YKT6",
+      "pam_score": 0.9923449158668518,
+      "cosine": 0.03916403990097682,
+      "improvement": 0.953180875965875,
+      "in_string_700": false
+    },
+    {
+      "rank": 7,
+      "gene_a": "TICRR",
+      "gene_b": "TIMM10",
+      "pam_score": 0.9920005798339844,
+      "cosine": 0.11480313254709514,
+      "improvement": 0.8771974472868892,
+      "in_string_700": false
+    },
+    {
+      "rank": 8,
+      "gene_a": "TANGO6",
+      "gene_b": "VARS1",
+      "pam_score": 0.9916297197341919,
+      "cosine": 0.12745606204623025,
+      "improvement": 0.8641736576879616,
+      "in_string_700": false
+    },
+    {
+      "rank": 9,
+      "gene_a": "TICRR",
+      "gene_b": "U2AF2",
+      "pam_score": 0.9913814067840576,
+      "cosine": 0.14106539724072248,
+      "improvement": 0.8503160095433351,
+      "in_string_700": false
+    },
+    {
+      "rank": 10,
+      "gene_a": "TICRR",
+      "gene_b": "TINF2",
+      "pam_score": 0.9906439781188965,
+      "cosine": 0.08155130592001622,
+      "improvement": 0.9090926721988802,
+      "in_string_700": false
+    },
+    {
+      "rank": 11,
+      "gene_a": "TICRR",
+      "gene_b": "ZNHIT2",
+      "pam_score": 0.9905778169631958,
+      "cosine": 0.035939056252012776,
+      "improvement": 0.954638760711183,
+      "in_string_700": false
+    },
+    {
+      "rank": 12,
+      "gene_a": "TICRR",
+      "gene_b": "WDR75",
+      "pam_score": 0.9905457496643066,
+      "cosine": 0.14364869314116063,
+      "improvement": 0.846897056523146,
+      "in_string_700": false
+    },
+    {
+      "rank": 13,
+      "gene_a": "TICRR",
+      "gene_b": "YARS2",
+      "pam_score": 0.9902191758155823,
+      "cosine": 0.16961655107646412,
+      "improvement": 0.8206026247391182,
+      "in_string_700": false
+    },
+    {
+      "rank": 14,
+      "gene_a": "TICRR",
+      "gene_b": "ZPR1",
+      "pam_score": 0.9901764392852783,
+      "cosine": 0.10963963986727737,
+      "improvement": 0.8805367994180009,
+      "in_string_700": false
+    },
+    {
+      "rank": 15,
+      "gene_a": "TANGO6",
+      "gene_b": "TUBGCP2",
+      "pam_score": 0.9900563359260559,
+      "cosine": 0.056835344476230336,
+      "improvement": 0.9332209914498256,
+      "in_string_700": false
+    },
+    {
+      "rank": 16,
+      "gene_a": "TICRR",
+      "gene_b": "UFD1",
+      "pam_score": 0.9894763827323914,
+      "cosine": 0.11949717025114048,
+      "improvement": 0.8699792124812509,
+      "in_string_700": false
+    },
+    {
+      "rank": 17,
+      "gene_a": "SRBD1",
+      "gene_b": "ZNHIT2",
+      "pam_score": 0.989440381526947,
+      "cosine": 0.02492736191356156,
+      "improvement": 0.9645130196133854,
+      "in_string_700": false
+    },
+    {
+      "rank": 18,
+      "gene_a": "SNRNP35",
+      "gene_b": "TICRR",
+      "pam_score": 0.9892163276672363,
+      "cosine": 0.09477121008168027,
+      "improvement": 0.8944451175855561,
+      "in_string_700": false
+    },
+    {
+      "rank": 19,
+      "gene_a": "CTDP1",
+      "gene_b": "DDX47",
+      "pam_score": 0.9891847372055054,
+      "cosine": 0.16909876680229963,
+      "improvement": 0.8200859704032057,
+      "in_string_700": false
+    },
+    {
+      "rank": 20,
+      "gene_a": "TANGO6",
+      "gene_b": "ZNHIT2",
+      "pam_score": 0.9890707731246948,
+      "cosine": -0.1778692468091533,
+      "improvement": 1.1669400199338482,
+      "in_string_700": false
+    },
+    {
+      "rank": 21,
+      "gene_a": "TICRR",
+      "gene_b": "TSR1",
+      "pam_score": 0.9888396263122559,
+      "cosine": 0.13735365228213017,
+      "improvement": 0.8514859740301257,
+      "in_string_700": false
+    },
+    {
+      "rank": 22,
+      "gene_a": "SSU72",
+      "gene_b": "TICRR",
+      "pam_score": 0.9883996844291687,
+      "cosine": 0.07048198348449981,
+      "improvement": 0.9179177009446688,
+      "in_string_700": false
+    },
+    {
+      "rank": 23,
+      "gene_a": "TANGO6",
+      "gene_b": "TRAPPC3",
+      "pam_score": 0.9877763390541077,
+      "cosine": -0.020603082163067145,
+      "improvement": 1.0083794212171748,
+      "in_string_700": false
+    },
+    {
+      "rank": 24,
+      "gene_a": "SUPT5H",
+      "gene_b": "TICRR",
+      "pam_score": 0.9876530170440674,
+      "cosine": 0.10793508361561864,
+      "improvement": 0.8797179334284487,
+      "in_string_700": false
+    },
+    {
+      "rank": 25,
+      "gene_a": "SRSF1",
+      "gene_b": "TICRR",
+      "pam_score": 0.987104058265686,
+      "cosine": 0.13693686543331957,
+      "improvement": 0.8501671928323664,
+      "in_string_700": false
+    },
+    {
+      "rank": 26,
+      "gene_a": "TICRR",
+      "gene_b": "VPS28",
+      "pam_score": 0.9870213270187378,
+      "cosine": 0.0585745850689982,
+      "improvement": 0.9284467419497396,
+      "in_string_700": false
+    },
+    {
+      "rank": 27,
+      "gene_a": "TICRR",
+      "gene_b": "YJU2",
+      "pam_score": 0.9869568347930908,
+      "cosine": 0.17932532428900602,
+      "improvement": 0.8076315105040848,
+      "in_string_700": false
+    },
+    {
+      "rank": 28,
+      "gene_a": "THOC2",
+      "gene_b": "TICRR",
+      "pam_score": 0.9865376353263855,
+      "cosine": 0.14224235782369146,
+      "improvement": 0.8442952775026941,
+      "in_string_700": false
+    },
+    {
+      "rank": 29,
+      "gene_a": "TICRR",
+      "gene_b": "UBE2M",
+      "pam_score": 0.9859087467193604,
+      "cosine": 0.10439029701018875,
+      "improvement": 0.8815184497091716,
+      "in_string_700": false
+    },
+    {
+      "rank": 30,
+      "gene_a": "SPOUT1",
+      "gene_b": "TANGO6",
+      "pam_score": 0.9857805371284485,
+      "cosine": 0.08634969816156142,
+      "improvement": 0.899430838966887,
+      "in_string_700": false
+    }
+  ]
+}

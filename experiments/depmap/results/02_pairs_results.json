@@ -1,0 +1,50 @@
+{
+  "25000": {
+    "n_pairs": 25000,
+    "n_unique_genes": 748,
+    "coess_min": 5171.631382631102,
+    "coess_max": 18461.600514226775,
+    "coess_mean": 6473.759796148522,
+    "cos_mean": 0.9490504065660857,
+    "cos_std": 0.10892660119974215,
+    "n_cross_boundary": 117,
+    "pct_cross_boundary": 0.468,
+    "cosine_auc": 0.9237501865599999
+  },
+  "50000": {
+    "n_pairs": 50000,
+    "n_unique_genes": 964,
+    "coess_min": 4275.553581395855,
+    "coess_max": 18461.600514226775,
+    "coess_mean": 5572.516137577847,
+    "cos_mean": 0.9401404995321383,
+    "cos_std": 0.13194493668423232,
+    "n_cross_boundary": 358,
+    "pct_cross_boundary": 0.716,
+    "cosine_auc": 0.9169017202
+  },
+  "100000": {
+    "n_pairs": 100000,
+    "n_unique_genes": 1240,
+    "coess_min": 3403.6800470291155,
+    "coess_max": 18461.600514226775,
+    "coess_mean": 4679.723509436258,
+    "cos_mean": 0.9296742728772953,
+    "cos_std": 0.16031825228860244,
+    "n_cross_boundary": 947,
+    "pct_cross_boundary": 0.947,
+    "cosine_auc": 0.9076982807
+  },
+  "200000": {
+    "n_pairs": 200000,
+    "n_unique_genes": 1557,
+    "coess_min": 2565.3613455410464,
+    "coess_max": 18461.600514226775,
+    "coess_mean": 3806.0621382817935,
+    "cos_mean": 0.9131990147278571,
+    "cos_std": 0.21010218185981444,
+    "n_cross_boundary": 2327,
+    "pct_cross_boundary": 1.1635,
+    "cosine_auc": 0.8968498254749999
+  }
+}

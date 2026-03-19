@@ -1,0 +1,13 @@
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+faiss-cpu>=1.7
+scanpy>=1.9
+anndata>=0.9
+gprofiler-official>=1.0
+hdbscan>=0.8
+tqdm

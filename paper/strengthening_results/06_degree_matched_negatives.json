@@ -1,0 +1,21 @@
+{
+  "random_negatives": {
+    "n_neg": 50000,
+    "cosine_auc": 0.692421968368575,
+    "auc_lam_09": 0.8834146952896683,
+    "auc_lam_10": 0.9104090678184632,
+    "cb_assoc_auc": 0.908218280881078
+  },
+  "degree_matched_negatives": {
+    "n_neg": 116340,
+    "n_widened": 9,
+    "cosine_auc": 0.7238342085238654,
+    "auc_lam_09": 0.8932669686276071,
+    "auc_lam_10": 0.9149174039997471,
+    "cb_cosine_auc": 0.5213795155473511,
+    "cb_assoc_auc": 0.9348608285114175,
+    "neg_mean_degree": 102.0930591370122,
+    "pos_mean_degree": 105.89354478253395
+  },
+  "elapsed_seconds": 3.7538650035858154
+}

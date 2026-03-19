@@ -1,0 +1,61 @@
+# Data files (too large for git)
+*.h5ad
+*.npy
+*.pt
+*.pkl
+*.pickle
+*.parquet
+*.feather
+
+# Large CSVs (embeddings, pair scores)
+**/embeddings/
+**/checkpoints/
+**/models/
+
+# Specific large files
+*_chunks.jsonl
+
+# Large raw data
+*.gctx
+*.gctx.gz
+CRISPRGeneEffect.csv
+OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv
+9606.protein.links.detailed.v12.0.txt.gz
+primary-screen-replicate-collapsed-logfold-change.csv
+co_lethality.npy
+sensitivity_matrix.npy
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Compiled LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls

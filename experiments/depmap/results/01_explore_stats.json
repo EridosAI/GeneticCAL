@@ -1,0 +1,11 @@
+{
+  "n_genes": 17725,
+  "n_cell_lines": 1112,
+  "max_missing_frac": 0.2,
+  "pca50_var_explained": 0.9326136618397841,
+  "pca100_var_explained": 0.947087166914753,
+  "pca50_cos_mean": 0.0013790617113628,
+  "pca50_cos_std": 0.7664595587251365,
+  "pca100_cos_mean": 0.0013632477744751983,
+  "pca100_cos_std": 0.7500232306876368
+}

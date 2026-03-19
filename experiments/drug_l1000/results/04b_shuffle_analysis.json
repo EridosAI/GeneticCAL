@@ -1,0 +1,91 @@
+{
+  "degree_correlations": {
+    "ref_degree_vs_pam": {
+      "rho": 0.6485187314011164,
+      "p": 3.336493276838111e-250
+    },
+    "shuf_degree_vs_pam": {
+      "rho": 0.9170131453764064,
+      "p": 0.0
+    },
+    "real_degree_vs_shuf_pam": {
+      "rho": 0.9170131453764064,
+      "p": 0.0
+    },
+    "cosine_vs_degree": {
+      "rho": -0.15304565053740354,
+      "p": 1.9122110757255943e-12
+    },
+    "degree_real_vs_shuf": 1.0
+  },
+  "stratified_auc": [
+    {
+      "quintile": 0,
+      "degree_min": 0,
+      "degree_max": 9,
+      "n_total": 80164,
+      "n_pos": 420,
+      "n_neg": 79744,
+      "auc_ref": 0.9042316514035389,
+      "auc_shuf": 0.8128746512650005,
+      "auc_cos": 0.39542506258121224,
+      "ref_beats_shuf": true
+    },
+    {
+      "quintile": 1,
+      "degree_min": 10,
+      "degree_max": 70,
+      "n_total": 80676,
+      "n_pos": 19195,
+      "n_neg": 61481,
+      "auc_ref": 0.8069977934042303,
+      "auc_shuf": 0.8111319846508658,
+      "auc_cos": 0.4147477328927754,
+      "ref_beats_shuf": false
+    },
+    {
+      "quintile": 2,
+      "degree_min": 71,
+      "degree_max": 130,
+      "n_total": 82189,
+      "n_pos": 42912,
+      "n_neg": 39277,
+      "auc_ref": 0.7579837717422879,
+      "auc_shuf": 0.826840160604644,
+      "auc_cos": 0.43957528280512165,
+      "ref_beats_shuf": false
+    },
+    {
+      "quintile": 3,
+      "degree_min": 131,
+      "degree_max": 198,
+      "n_total": 77581,
+      "n_pos": 60184,
+      "n_neg": 17397,
+      "auc_ref": 0.694299422049441,
+      "auc_shuf": 0.8062292874746488,
+      "auc_cos": 0.4706422907555532,
+      "ref_beats_shuf": false
+    },
+    {
+      "quintile": 4,
+      "degree_min": 199,
+      "degree_max": 1746,
+      "n_total": 79390,
+      "n_pos": 77289,
+      "n_neg": 2101,
+      "auc_ref": 0.6625324679855376,
+      "auc_shuf": 0.8289646198251482,
+      "auc_cos": 0.5141972073401802,
+      "ref_beats_shuf": false
+    }
+  ],
+  "degree_controlled_auc": {
+    "n_pairs": 50000,
+    "n_fallbacks": 39042,
+    "auc_ref": 0.7796325468,
+    "auc_shuf": 0.7888940745999999,
+    "auc_cos": 0.4871827864,
+    "ref_minus_shuf": -0.009261527799999891
+  }
+}

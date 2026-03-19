@@ -1,0 +1,2003 @@
+{
+  "expression_clusters": 36,
+  "expression_clustered": 1088,
+  "expression_noise": 1197,
+  "expression_sizes": [
+    "485",
+    "108",
+    "46",
+    "46",
+    "36",
+    "29",
+    "28",
+    "25",
+    "20",
+    "20",
+    "19",
+    "16",
+    "16",
+    "15",
+    "14",
+    "13",
+    "13",
+    "12",
+    "12",
+    "10",
+    "9",
+    "8",
+    "8",
+    "8",
+    "7",
+    "7",
+    "7",
+    "7",
+    "6",
+    "6",
+    "6",
+    "6",
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "association_clusters": 58,
+  "association_clustered": 885,
+  "association_noise": 1400,
+  "association_sizes": [
+    "89",
+    "46",
+    "44",
+    "43",
+    "34",
+    "33",
+    "29",
+    "28",
+    "25",
+    "22",
+    "20",
+    "19",
+    "19",
+    "19",
+    "17",
+    "17",
+    "16",
+    "15",
+    "15",
+    "14",
+    "14",
+    "14",
+    "13",
+    "13",
+    "13",
+    "12",
+    "12",
+    "11",
+    "10",
+    "10",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "7",
+    "7",
+    "7",
+    "7",
+    "7",
+    "6",
+    "6",
+    "6",
+    "6",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "cosine_matrix_correlation": 0.1027389324421992,
+  "ari": 0.4441536192096683,
+  "nmi": 0.7996085195339251,
+  "n_both_clustered": 500,
+  "n_pam_specific_clusters": 27,
+  "pam_specific_clusters": [
+    {
+      "assoc_cluster_id": 38,
+      "size": 46,
+      "member_genes": [
+        "CCNA2",
+        "CCNB1",
+        "CDC20",
+        "CDCA5",
+        "CDK1",
+        "CENPA",
+        "CENPC",
+        "CENPE",
+        "CENPH",
+        "CENPI",
+        "CENPK",
+        "CENPN",
+        "CENPT",
+        "DSN1",
+        "DYNLRB1",
+        "ECT2",
+        "ESPL1",
+        "ANLN",
+        "HJURP",
+        "KIF11",
+        "KIF14",
+        "KIF20A",
+        "KIF23",
+        "KIF4A",
+        "MIS12",
+        "NCAPD2",
+        "NCAPG2",
+        "NCAPG",
+        "NCAPH",
+        "NDC80",
+        "NUF2",
+        "PMF1",
+        "RACGAP1",
+        "RAD21",
+        "AURKA",
+        "AURKB",
+        "SMC1A",
+        "SMC2",
+        "SMC3",
+        "SPC24",
+        "SPC25",
+        "BIRC5",
+        "TACC3",
+        "TPX2",
+        "BUB1B",
+        "BUB1"
+      ],
+      "mean_expr_cosine": 0.14226442575454712,
+      "mean_assoc_cosine": 0.5367262959480286,
+      "pct_noise_in_expr": 0.6739130434782609,
+      "n_expr_clusters_spanned": 4,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 561,
+      "total_possible_edges": 1035,
+      "string_density": 0.5420289855072464,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 22.25322409027663,
+      "top_string_edges": [
+        [
+          "CCNA2",
+          "CCNB1"
+        ],
+        [
+          "CCNA2",
+          "CDC20"
+        ],
+        [
+          "CCNA2",
+          "CDCA5"
+        ],
+        [
+          "CCNA2",
+          "CDK1"
+        ],
+        [
+          "CCNA2",
+          "CENPA"
+        ],
+        [
+          "CCNA2",
+          "CENPE"
+        ],
+        [
+          "CCNA2",
+          "CENPN"
+        ],
+        [
+          "CCNA2",
+          "ECT2"
+        ],
+        [
+          "CCNA2",
+          "ESPL1"
+        ],
+        [
+          "CCNA2",
+          "ANLN"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 20,
+      "size": 34,
+      "member_genes": [
+        "CAMLG",
+        "COG1",
+        "COG2",
+        "COG3",
+        "COG4",
+        "COG6",
+        "COG8",
+        "COPA",
+        "COPB1",
+        "COPB2",
+        "COPE",
+        "COPZ1",
+        "GOLT1B",
+        "GOSR2",
+        "ARCN1",
+        "ARF4",
+        "NAPA",
+        "NAPG",
+        "NBAS",
+        "NSF",
+        "RINT1",
+        "SCAF1",
+        "SCFD1",
+        "BET1",
+        "STX18",
+        "BNIP1",
+        "TRAPPC11",
+        "TRAPPC1",
+        "TRAPPC3",
+        "TRAPPC4",
+        "TRAPPC5",
+        "VMP1",
+        "VPS54",
+        "YKT6"
+      ],
+      "mean_expr_cosine": 0.3563377261161804,
+      "mean_assoc_cosine": 0.5024719834327698,
+      "pct_noise_in_expr": 0.7058823529411765,
+      "n_expr_clusters_spanned": 2,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 140,
+      "total_possible_edges": 561,
+      "string_density": 0.24955436720142601,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 10.245557718363512,
+      "top_string_edges": [
+        [
+          "COG1",
+          "COG2"
+        ],
+        [
+          "COG1",
+          "COG3"
+        ],
+        [
+          "COG1",
+          "COG4"
+        ],
+        [
+          "COG1",
+          "COG6"
+        ],
+        [
+          "COG1",
+          "COG8"
+        ],
+        [
+          "COG1",
+          "GOSR2"
+        ],
+        [
+          "COG1",
+          "RINT1"
+        ],
+        [
+          "COG1",
+          "BET1"
+        ],
+        [
+          "COG1",
+          "VPS54"
+        ],
+        [
+          "COG1",
+          "YKT6"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 46,
+      "size": 28,
+      "member_genes": [
+        "COX5A",
+        "COX5B",
+        "COX6C",
+        "COX7B",
+        "COX7C",
+        "CYC1",
+        "NDUFA11",
+        "NDUFA2",
+        "NDUFA4",
+        "NDUFA6",
+        "NDUFA8",
+        "NDUFAB1",
+        "NDUFB10",
+        "NDUFB3",
+        "NDUFB4",
+        "NDUFB6",
+        "NDUFB7",
+        "NDUFB8",
+        "NDUFS3",
+        "NDUFS5",
+        "PMPCB",
+        "SDHC",
+        "SDHD",
+        "UQCRB",
+        "UQCRC1",
+        "UQCRC2",
+        "UQCRFS1",
+        "UQCRQ"
+      ],
+      "mean_expr_cosine": 0.5703560709953308,
+      "mean_assoc_cosine": 0.7401735186576843,
+      "pct_noise_in_expr": 0.7142857142857143,
+      "n_expr_clusters_spanned": 4,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 351,
+      "total_possible_edges": 378,
+      "string_density": 0.9285714285714286,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 38.12288389797199,
+      "top_string_edges": [
+        [
+          "COX5A",
+          "COX5B"
+        ],
+        [
+          "COX5A",
+          "COX6C"
+        ],
+        [
+          "COX5A",
+          "COX7B"
+        ],
+        [
+          "COX5A",
+          "COX7C"
+        ],
+        [
+          "COX5A",
+          "CYC1"
+        ],
+        [
+          "COX5A",
+          "NDUFA11"
+        ],
+        [
+          "COX5A",
+          "NDUFA2"
+        ],
+        [
+          "COX5A",
+          "NDUFA4"
+        ],
+        [
+          "COX5A",
+          "NDUFA6"
+        ],
+        [
+          "COX5A",
+          "NDUFA8"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 15,
+      "size": 22,
+      "member_genes": [
+        "ACTL6A",
+        "ACTR6",
+        "ACTR8",
+        "CFDP1",
+        "DMAP1",
+        "E2F6",
+        "EP400",
+        "HCFC1",
+        "ING3",
+        "INO80B",
+        "INO80",
+        "KANSL1",
+        "KANSL2",
+        "KANSL3",
+        "KAT8",
+        "KAT8",
+        "MCRS1",
+        "MRGBP",
+        "NFRKB",
+        "BRD8",
+        "VPS72",
+        "YEATS4"
+      ],
+      "mean_expr_cosine": 0.2559345066547394,
+      "mean_assoc_cosine": 0.6271584033966064,
+      "pct_noise_in_expr": 0.45454545454545453,
+      "n_expr_clusters_spanned": 4,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 152,
+      "total_possible_edges": 231,
+      "string_density": 0.658008658008658,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 27.014817494133997,
+      "top_string_edges": [
+        [
+          "ACTL6A",
+          "ACTR6"
+        ],
+        [
+          "ACTL6A",
+          "ACTR8"
+        ],
+        [
+          "ACTL6A",
+          "CFDP1"
+        ],
+        [
+          "ACTL6A",
+          "DMAP1"
+        ],
+        [
+          "ACTL6A",
+          "EP400"
+        ],
+        [
+          "ACTL6A",
+          "HCFC1"
+        ],
+        [
+          "ACTL6A",
+          "ING3"
+        ],
+        [
+          "ACTL6A",
+          "INO80B"
+        ],
+        [
+          "ACTL6A",
+          "INO80"
+        ],
+        [
+          "ACTL6A",
+          "KANSL1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 7,
+      "size": 20,
+      "member_genes": [
+        "CHMP1A",
+        "CHMP2A",
+        "CHMP3",
+        "CHMP4B",
+        "CHMP5",
+        "CHMP6",
+        "CHMP7",
+        "EMC1",
+        "EMC3",
+        "EMC4",
+        "HGS",
+        "IFITM2",
+        "PDCD6IP",
+        "SNF8",
+        "TSG101",
+        "UBAP1",
+        "VPS25",
+        "VPS28",
+        "VPS29",
+        "VPS35"
+      ],
+      "mean_expr_cosine": 0.17702323198318481,
+      "mean_assoc_cosine": 0.58456951379776,
+      "pct_noise_in_expr": 0.35,
+      "n_expr_clusters_spanned": 4,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 91,
+      "total_possible_edges": 190,
+      "string_density": 0.4789473684210526,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 19.663382221059237,
+      "top_string_edges": [
+        [
+          "CHMP1A",
+          "CHMP2A"
+        ],
+        [
+          "CHMP1A",
+          "CHMP3"
+        ],
+        [
+          "CHMP1A",
+          "CHMP4B"
+        ],
+        [
+          "CHMP1A",
+          "CHMP5"
+        ],
+        [
+          "CHMP1A",
+          "CHMP6"
+        ],
+        [
+          "CHMP1A",
+          "CHMP7"
+        ],
+        [
+          "CHMP1A",
+          "HGS"
+        ],
+        [
+          "CHMP1A",
+          "PDCD6IP"
+        ],
+        [
+          "CHMP1A",
+          "SNF8"
+        ],
+        [
+          "CHMP1A",
+          "TSG101"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 32,
+      "size": 19,
+      "member_genes": [
+        "ERH",
+        "HNRNPC",
+        "HNRNPH1",
+        "HNRNPK",
+        "HNRNPL",
+        "HNRNPL",
+        "HNRNPM",
+        "HNRNPR",
+        "HNRNPU",
+        "ILF2",
+        "ILF3",
+        "PTBP1",
+        "RBM14",
+        "RBM4",
+        "RBMX",
+        "SF1",
+        "SF3A2",
+        "SFPQ",
+        "SNRNP70"
+      ],
+      "mean_expr_cosine": 0.08955194801092148,
+      "mean_assoc_cosine": 0.653494119644165,
+      "pct_noise_in_expr": 0.8421052631578947,
+      "n_expr_clusters_spanned": 3,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 124,
+      "total_possible_edges": 171,
+      "string_density": 0.7251461988304093,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 29.771176989149513,
+      "top_string_edges": [
+        [
+          "ERH",
+          "HNRNPC"
+        ],
+        [
+          "ERH",
+          "HNRNPH1"
+        ],
+        [
+          "ERH",
+          "HNRNPK"
+        ],
+        [
+          "ERH",
+          "HNRNPM"
+        ],
+        [
+          "ERH",
+          "HNRNPR"
+        ],
+        [
+          "ERH",
+          "ILF2"
+        ],
+        [
+          "ERH",
+          "ILF3"
+        ],
+        [
+          "ERH",
+          "PTBP1"
+        ],
+        [
+          "ERH",
+          "RBMX"
+        ],
+        [
+          "ERH",
+          "SNRNP70"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 50,
+      "size": 19,
+      "member_genes": [
+        "EEF1B2",
+        "EIF1",
+        "EIF2S1",
+        "EIF2S2",
+        "EIF2S3",
+        "EIF3A",
+        "EIF3B",
+        "EIF3CL",
+        "EIF3D",
+        "EIF3E",
+        "EIF3F",
+        "EIF3G",
+        "EIF3H",
+        "EIF3I",
+        "EIF3L",
+        "EIF3M",
+        "GARS",
+        "STRAP",
+        "XRCC6"
+      ],
+      "mean_expr_cosine": 0.25278615951538086,
+      "mean_assoc_cosine": 0.7510272264480591,
+      "pct_noise_in_expr": 0.6842105263157895,
+      "n_expr_clusters_spanned": 2,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 112,
+      "total_possible_edges": 171,
+      "string_density": 0.6549707602339181,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 26.89009534503827,
+      "top_string_edges": [
+        [
+          "EEF1B2",
+          "EIF1"
+        ],
+        [
+          "EEF1B2",
+          "EIF2S3"
+        ],
+        [
+          "EEF1B2",
+          "EIF3E"
+        ],
+        [
+          "EEF1B2",
+          "EIF3F"
+        ],
+        [
+          "EEF1B2",
+          "EIF3H"
+        ],
+        [
+          "EEF1B2",
+          "EIF3I"
+        ],
+        [
+          "EEF1B2",
+          "EIF3L"
+        ],
+        [
+          "EIF1",
+          "EIF2S1"
+        ],
+        [
+          "EIF1",
+          "EIF2S2"
+        ],
+        [
+          "EIF1",
+          "EIF2S3"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 24,
+      "size": 17,
+      "member_genes": [
+        "CIAO1",
+        "CIAPIN1",
+        "ABCB7",
+        "FDXR",
+        "FXN",
+        "GLRX3",
+        "GLRX5",
+        "HSCB",
+        "HSPD1",
+        "ISCA2",
+        "ISCU",
+        "MMS19",
+        "MOCS3",
+        "NDOR1",
+        "NFS1",
+        "NUBP1",
+        "STARD7"
+      ],
+      "mean_expr_cosine": 0.3789012134075165,
+      "mean_assoc_cosine": 0.5041247010231018,
+      "pct_noise_in_expr": 0.8235294117647058,
+      "n_expr_clusters_spanned": 2,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 47,
+      "total_possible_edges": 136,
+      "string_density": 0.34558823529411764,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 14.188267876055185,
+      "top_string_edges": [
+        [
+          "CIAO1",
+          "CIAPIN1"
+        ],
+        [
+          "CIAO1",
+          "GLRX3"
+        ],
+        [
+          "CIAO1",
+          "MMS19"
+        ],
+        [
+          "CIAO1",
+          "NFS1"
+        ],
+        [
+          "CIAO1",
+          "NUBP1"
+        ],
+        [
+          "CIAPIN1",
+          "GLRX3"
+        ],
+        [
+          "CIAPIN1",
+          "MMS19"
+        ],
+        [
+          "CIAPIN1",
+          "NDOR1"
+        ],
+        [
+          "CIAPIN1",
+          "NFS1"
+        ],
+        [
+          "CIAPIN1",
+          "NUBP1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 25,
+      "size": 17,
+      "member_genes": [
+        "AP2M1",
+        "AP2S1",
+        "ATP6AP1",
+        "ATP6AP2",
+        "ATP6V0B",
+        "ATP6V0C",
+        "ATP6V0D1",
+        "ATP6V1A",
+        "ATP6V1B2",
+        "ATP6V1C1",
+        "ATP6V1D",
+        "ATP6V1E1",
+        "ATP6V1F",
+        "ATP6V1G1",
+        "ATP6V1H",
+        "TSEN54",
+        "WDR7"
+      ],
+      "mean_expr_cosine": 0.43373289704322815,
+      "mean_assoc_cosine": 0.5896461606025696,
+      "pct_noise_in_expr": 0.5882352941176471,
+      "n_expr_clusters_spanned": 2,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 84,
+      "total_possible_edges": 136,
+      "string_density": 0.6176470588235294,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 25.357755352949695,
+      "top_string_edges": [
+        [
+          "AP2M1",
+          "AP2S1"
+        ],
+        [
+          "AP2M1",
+          "ATP6V0C"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6AP2"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V0B"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V0C"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V0D1"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V1A"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V1B2"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V1C1"
+        ],
+        [
+          "ATP6AP1",
+          "ATP6V1D"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 42,
+      "size": 14,
+      "member_genes": [
+        "CDC40",
+        "CDC5L",
+        "CRNKL1",
+        "CWC15",
+        "CWC22",
+        "DDX41",
+        "DHX16",
+        "AQR",
+        "RBMX2",
+        "BCAS2",
+        "SNW1",
+        "BUD13",
+        "BUD31",
+        "C14ORF178"
+      ],
+      "mean_expr_cosine": 0.7542722225189209,
+      "mean_assoc_cosine": 0.8328948020935059,
+      "pct_noise_in_expr": 0.6428571428571429,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 67,
+      "total_possible_edges": 91,
+      "string_density": 0.7362637362637363,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 30.227612084782525,
+      "top_string_edges": [
+        [
+          "CDC40",
+          "CDC5L"
+        ],
+        [
+          "CDC40",
+          "CRNKL1"
+        ],
+        [
+          "CDC40",
+          "CWC15"
+        ],
+        [
+          "CDC40",
+          "CWC22"
+        ],
+        [
+          "CDC40",
+          "DDX41"
+        ],
+        [
+          "CDC40",
+          "DHX16"
+        ],
+        [
+          "CDC40",
+          "AQR"
+        ],
+        [
+          "CDC40",
+          "RBMX2"
+        ],
+        [
+          "CDC40",
+          "BCAS2"
+        ],
+        [
+          "CDC40",
+          "SNW1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 49,
+      "size": 12,
+      "member_genes": [
+        "ZNHIT6",
+        "ELL",
+        "ELP2",
+        "ICE1",
+        "NELFA",
+        "NELFB",
+        "NELFCD",
+        "NELFE",
+        "NOP10",
+        "NUFIP1",
+        "SUPT5H",
+        "C12ORF45"
+      ],
+      "mean_expr_cosine": 0.18461531400680542,
+      "mean_assoc_cosine": 0.5863529443740845,
+      "pct_noise_in_expr": 0.5,
+      "n_expr_clusters_spanned": 3,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 37,
+      "total_possible_edges": 66,
+      "string_density": 0.5606060606060606,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 23.015913588752316,
+      "top_string_edges": [
+        [
+          "ZNHIT6",
+          "NUFIP1"
+        ],
+        [
+          "ELL",
+          "ELP2"
+        ],
+        [
+          "ELL",
+          "ICE1"
+        ],
+        [
+          "ELL",
+          "NELFA"
+        ],
+        [
+          "ELL",
+          "NELFB"
+        ],
+        [
+          "ELL",
+          "NELFCD"
+        ],
+        [
+          "ELL",
+          "NELFE"
+        ],
+        [
+          "ELL",
+          "NUFIP1"
+        ],
+        [
+          "ELL",
+          "SUPT5H"
+        ],
+        [
+          "ELP2",
+          "ICE1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 18,
+      "size": 10,
+      "member_genes": [
+        "ACTR10",
+        "ACTR1A",
+        "ACTR1B",
+        "CAPZB",
+        "DCTN1",
+        "DCTN2",
+        "DCTN3",
+        "DCTN4",
+        "DCTN5",
+        "DCTN6"
+      ],
+      "mean_expr_cosine": 0.5030887126922607,
+      "mean_assoc_cosine": 0.6888582706451416,
+      "pct_noise_in_expr": 0.8,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 45,
+      "total_possible_edges": 45,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "ACTR10",
+          "ACTR1A"
+        ],
+        [
+          "ACTR10",
+          "ACTR1B"
+        ],
+        [
+          "ACTR10",
+          "CAPZB"
+        ],
+        [
+          "ACTR10",
+          "DCTN1"
+        ],
+        [
+          "ACTR10",
+          "DCTN2"
+        ],
+        [
+          "ACTR10",
+          "DCTN3"
+        ],
+        [
+          "ACTR10",
+          "DCTN4"
+        ],
+        [
+          "ACTR10",
+          "DCTN5"
+        ],
+        [
+          "ACTR10",
+          "DCTN6"
+        ],
+        [
+          "ACTR1A",
+          "ACTR1B"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 29,
+      "size": 9,
+      "member_genes": [
+        "GTF3C1",
+        "GTF3C2",
+        "GTF3C3",
+        "GTF3C4",
+        "POLR3C",
+        "POLR3E",
+        "BDP1",
+        "BRF1",
+        "BRF2"
+      ],
+      "mean_expr_cosine": 0.4847407341003418,
+      "mean_assoc_cosine": 0.5618383884429932,
+      "pct_noise_in_expr": 0.8888888888888888,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 34,
+      "total_possible_edges": 36,
+      "string_density": 0.9444444444444444,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 38.77455712699715,
+      "top_string_edges": [
+        [
+          "GTF3C1",
+          "GTF3C2"
+        ],
+        [
+          "GTF3C1",
+          "GTF3C3"
+        ],
+        [
+          "GTF3C1",
+          "GTF3C4"
+        ],
+        [
+          "GTF3C1",
+          "POLR3C"
+        ],
+        [
+          "GTF3C1",
+          "POLR3E"
+        ],
+        [
+          "GTF3C1",
+          "BDP1"
+        ],
+        [
+          "GTF3C1",
+          "BRF1"
+        ],
+        [
+          "GTF3C1",
+          "BRF2"
+        ],
+        [
+          "GTF3C2",
+          "GTF3C3"
+        ],
+        [
+          "GTF3C2",
+          "GTF3C4"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 39,
+      "size": 9,
+      "member_genes": [
+        "ANAPC10",
+        "ANAPC11",
+        "ANAPC13",
+        "ANAPC15",
+        "ANAPC1",
+        "ANAPC2",
+        "ANAPC4",
+        "ANAPC5",
+        "SNX15"
+      ],
+      "mean_expr_cosine": 0.503395676612854,
+      "mean_assoc_cosine": 0.7662873864173889,
+      "pct_noise_in_expr": 0.7777777777777778,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 28,
+      "total_possible_edges": 36,
+      "string_density": 0.7777777777777778,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 31.93198822223295,
+      "top_string_edges": [
+        [
+          "ANAPC10",
+          "ANAPC11"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC13"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC15"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC1"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC2"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC4"
+        ],
+        [
+          "ANAPC10",
+          "ANAPC5"
+        ],
+        [
+          "ANAPC11",
+          "ANAPC13"
+        ],
+        [
+          "ANAPC11",
+          "ANAPC15"
+        ],
+        [
+          "ANAPC11",
+          "ANAPC1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 40,
+      "size": 9,
+      "member_genes": [
+        "INTS1",
+        "INTS2",
+        "INTS3",
+        "INTS4",
+        "INTS5",
+        "INTS6",
+        "INTS7",
+        "INTS8",
+        "INTS9"
+      ],
+      "mean_expr_cosine": 0.4811639189720154,
+      "mean_assoc_cosine": 0.8518534898757935,
+      "pct_noise_in_expr": 0.7777777777777778,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 36,
+      "total_possible_edges": 36,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "INTS1",
+          "INTS2"
+        ],
+        [
+          "INTS1",
+          "INTS3"
+        ],
+        [
+          "INTS1",
+          "INTS4"
+        ],
+        [
+          "INTS1",
+          "INTS5"
+        ],
+        [
+          "INTS1",
+          "INTS6"
+        ],
+        [
+          "INTS1",
+          "INTS7"
+        ],
+        [
+          "INTS1",
+          "INTS8"
+        ],
+        [
+          "INTS1",
+          "INTS9"
+        ],
+        [
+          "INTS2",
+          "INTS3"
+        ],
+        [
+          "INTS2",
+          "INTS4"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 12,
+      "size": 8,
+      "member_genes": [
+        "FARS2",
+        "HARS2",
+        "IARS2",
+        "LARS2",
+        "MARS2",
+        "PARS2",
+        "RARS2",
+        "SARS2"
+      ],
+      "mean_expr_cosine": 0.40771540999412537,
+      "mean_assoc_cosine": 0.6675524711608887,
+      "pct_noise_in_expr": 0.875,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 27,
+      "total_possible_edges": 28,
+      "string_density": 0.9642857142857143,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 39.58914866327861,
+      "top_string_edges": [
+        [
+          "FARS2",
+          "IARS2"
+        ],
+        [
+          "FARS2",
+          "LARS2"
+        ],
+        [
+          "FARS2",
+          "MARS2"
+        ],
+        [
+          "FARS2",
+          "PARS2"
+        ],
+        [
+          "FARS2",
+          "RARS2"
+        ],
+        [
+          "FARS2",
+          "SARS2"
+        ],
+        [
+          "HARS2",
+          "IARS2"
+        ],
+        [
+          "HARS2",
+          "LARS2"
+        ],
+        [
+          "HARS2",
+          "MARS2"
+        ],
+        [
+          "HARS2",
+          "PARS2"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 27,
+      "size": 7,
+      "member_genes": [
+        "CEP192",
+        "HAUS1",
+        "HAUS3",
+        "HAUS4",
+        "HAUS5",
+        "HAUS6",
+        "HAUS8"
+      ],
+      "mean_expr_cosine": 0.4847358167171478,
+      "mean_assoc_cosine": 0.7348979115486145,
+      "pct_noise_in_expr": 1.0,
+      "n_expr_clusters_spanned": 0,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 16,
+      "total_possible_edges": 21,
+      "string_density": 0.7619047619047619,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 31.280314993207785,
+      "top_string_edges": [
+        [
+          "CEP192",
+          "HAUS6"
+        ],
+        [
+          "HAUS1",
+          "HAUS3"
+        ],
+        [
+          "HAUS1",
+          "HAUS4"
+        ],
+        [
+          "HAUS1",
+          "HAUS5"
+        ],
+        [
+          "HAUS1",
+          "HAUS6"
+        ],
+        [
+          "HAUS1",
+          "HAUS8"
+        ],
+        [
+          "HAUS3",
+          "HAUS4"
+        ],
+        [
+          "HAUS3",
+          "HAUS5"
+        ],
+        [
+          "HAUS3",
+          "HAUS6"
+        ],
+        [
+          "HAUS3",
+          "HAUS8"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 28,
+      "size": 7,
+      "member_genes": [
+        "CENPJ",
+        "MZT1",
+        "NEDD1",
+        "TUBG1",
+        "TUBGCP2",
+        "TUBGCP3",
+        "TUBGCP5"
+      ],
+      "mean_expr_cosine": 0.36638638377189636,
+      "mean_assoc_cosine": 0.700779378414154,
+      "pct_noise_in_expr": 1.0,
+      "n_expr_clusters_spanned": 0,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 19,
+      "total_possible_edges": 21,
+      "string_density": 0.9047619047619048,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 37.14537405443424,
+      "top_string_edges": [
+        [
+          "CENPJ",
+          "MZT1"
+        ],
+        [
+          "CENPJ",
+          "TUBG1"
+        ],
+        [
+          "CENPJ",
+          "TUBGCP3"
+        ],
+        [
+          "CENPJ",
+          "TUBGCP5"
+        ],
+        [
+          "MZT1",
+          "NEDD1"
+        ],
+        [
+          "MZT1",
+          "TUBG1"
+        ],
+        [
+          "MZT1",
+          "TUBGCP2"
+        ],
+        [
+          "MZT1",
+          "TUBGCP3"
+        ],
+        [
+          "MZT1",
+          "TUBGCP5"
+        ],
+        [
+          "NEDD1",
+          "TUBG1"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 47,
+      "size": 7,
+      "member_genes": [
+        "SRP14",
+        "SRP19",
+        "SRP54",
+        "SRP68",
+        "SRP72",
+        "SRP9",
+        "SRPRB"
+      ],
+      "mean_expr_cosine": 0.44816944003105164,
+      "mean_assoc_cosine": 0.8165574073791504,
+      "pct_noise_in_expr": 0.7142857142857143,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 21,
+      "total_possible_edges": 21,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "SRP14",
+          "SRP19"
+        ],
+        [
+          "SRP14",
+          "SRP54"
+        ],
+        [
+          "SRP14",
+          "SRP68"
+        ],
+        [
+          "SRP14",
+          "SRP72"
+        ],
+        [
+          "SRP14",
+          "SRP9"
+        ],
+        [
+          "SRP14",
+          "SRPRB"
+        ],
+        [
+          "SRP19",
+          "SRP54"
+        ],
+        [
+          "SRP19",
+          "SRP68"
+        ],
+        [
+          "SRP19",
+          "SRP72"
+        ],
+        [
+          "SRP19",
+          "SRP9"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 16,
+      "size": 6,
+      "member_genes": [
+        "DDX20",
+        "GEMIN4",
+        "GEMIN5",
+        "GEMIN6",
+        "GEMIN7",
+        "GEMIN8"
+      ],
+      "mean_expr_cosine": 0.44599464535713196,
+      "mean_assoc_cosine": 0.7793226838111877,
+      "pct_noise_in_expr": 0.6666666666666666,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 15,
+      "total_possible_edges": 15,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "DDX20",
+          "GEMIN4"
+        ],
+        [
+          "DDX20",
+          "GEMIN5"
+        ],
+        [
+          "DDX20",
+          "GEMIN6"
+        ],
+        [
+          "DDX20",
+          "GEMIN7"
+        ],
+        [
+          "DDX20",
+          "GEMIN8"
+        ],
+        [
+          "GEMIN4",
+          "GEMIN5"
+        ],
+        [
+          "GEMIN4",
+          "GEMIN6"
+        ],
+        [
+          "GEMIN4",
+          "GEMIN7"
+        ],
+        [
+          "GEMIN4",
+          "GEMIN8"
+        ],
+        [
+          "GEMIN5",
+          "GEMIN6"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 31,
+      "size": 6,
+      "member_genes": [
+        "SRSF10",
+        "SRSF11",
+        "SRSF2",
+        "SRSF3",
+        "SRSF6",
+        "SRSF7"
+      ],
+      "mean_expr_cosine": 0.06466953456401825,
+      "mean_assoc_cosine": 0.7534876465797424,
+      "pct_noise_in_expr": 0.6666666666666666,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 15,
+      "total_possible_edges": 15,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "SRSF10",
+          "SRSF11"
+        ],
+        [
+          "SRSF10",
+          "SRSF2"
+        ],
+        [
+          "SRSF10",
+          "SRSF3"
+        ],
+        [
+          "SRSF10",
+          "SRSF6"
+        ],
+        [
+          "SRSF10",
+          "SRSF7"
+        ],
+        [
+          "SRSF11",
+          "SRSF2"
+        ],
+        [
+          "SRSF11",
+          "SRSF3"
+        ],
+        [
+          "SRSF11",
+          "SRSF6"
+        ],
+        [
+          "SRSF11",
+          "SRSF7"
+        ],
+        [
+          "SRSF2",
+          "SRSF3"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 1,
+      "size": 5,
+      "member_genes": [
+        "NAA10",
+        "NAA15",
+        "NAA20",
+        "NAA25",
+        "NAA35"
+      ],
+      "mean_expr_cosine": 0.25639232993125916,
+      "mean_assoc_cosine": 0.6764822602272034,
+      "pct_noise_in_expr": 1.0,
+      "n_expr_clusters_spanned": 0,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 10,
+      "total_possible_edges": 10,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "NAA10",
+          "NAA15"
+        ],
+        [
+          "NAA10",
+          "NAA20"
+        ],
+        [
+          "NAA10",
+          "NAA25"
+        ],
+        [
+          "NAA10",
+          "NAA35"
+        ],
+        [
+          "NAA15",
+          "NAA20"
+        ],
+        [
+          "NAA15",
+          "NAA25"
+        ],
+        [
+          "NAA15",
+          "NAA35"
+        ],
+        [
+          "NAA20",
+          "NAA25"
+        ],
+        [
+          "NAA20",
+          "NAA35"
+        ],
+        [
+          "NAA25",
+          "NAA35"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 2,
+      "size": 5,
+      "member_genes": [
+        "CBLL1",
+        "METTL14",
+        "METTL16",
+        "METTL3",
+        "WTAP"
+      ],
+      "mean_expr_cosine": 0.453315407037735,
+      "mean_assoc_cosine": 0.7158420085906982,
+      "pct_noise_in_expr": 1.0,
+      "n_expr_clusters_spanned": 0,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 10,
+      "total_possible_edges": 10,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "CBLL1",
+          "METTL14"
+        ],
+        [
+          "CBLL1",
+          "METTL16"
+        ],
+        [
+          "CBLL1",
+          "METTL3"
+        ],
+        [
+          "CBLL1",
+          "WTAP"
+        ],
+        [
+          "METTL14",
+          "METTL16"
+        ],
+        [
+          "METTL14",
+          "METTL3"
+        ],
+        [
+          "METTL14",
+          "WTAP"
+        ],
+        [
+          "METTL16",
+          "METTL3"
+        ],
+        [
+          "METTL16",
+          "WTAP"
+        ],
+        [
+          "METTL3",
+          "WTAP"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 8,
+      "size": 5,
+      "member_genes": [
+        "C1ORF109",
+        "NFKBIE",
+        "PPP2R1A",
+        "PPP4R2",
+        "USP8"
+      ],
+      "mean_expr_cosine": 0.253378689289093,
+      "mean_assoc_cosine": 0.5651973485946655,
+      "pct_noise_in_expr": 0.6,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 1,
+      "total_possible_edges": 10,
+      "string_density": 0.1,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 4.105541342858522,
+      "top_string_edges": [
+        [
+          "PPP2R1A",
+          "PPP4R2"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 22,
+      "size": 5,
+      "member_genes": [
+        "POT1",
+        "ACD",
+        "TEN1",
+        "TERF1",
+        "TERF2"
+      ],
+      "mean_expr_cosine": 0.14321771264076233,
+      "mean_assoc_cosine": 0.7212264537811279,
+      "pct_noise_in_expr": 0.6,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 10,
+      "total_possible_edges": 10,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "POT1",
+          "ACD"
+        ],
+        [
+          "POT1",
+          "TEN1"
+        ],
+        [
+          "POT1",
+          "TERF1"
+        ],
+        [
+          "POT1",
+          "TERF2"
+        ],
+        [
+          "ACD",
+          "TEN1"
+        ],
+        [
+          "ACD",
+          "TERF1"
+        ],
+        [
+          "ACD",
+          "TERF2"
+        ],
+        [
+          "TEN1",
+          "TERF1"
+        ],
+        [
+          "TEN1",
+          "TERF2"
+        ],
+        [
+          "TERF1",
+          "TERF2"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 26,
+      "size": 5,
+      "member_genes": [
+        "SNAPC1",
+        "SNAPC2",
+        "SNAPC3",
+        "SNAPC4",
+        "SNAPC5"
+      ],
+      "mean_expr_cosine": 0.5147825479507446,
+      "mean_assoc_cosine": 0.755041778087616,
+      "pct_noise_in_expr": 1.0,
+      "n_expr_clusters_spanned": 0,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 10,
+      "total_possible_edges": 10,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "SNAPC1",
+          "SNAPC2"
+        ],
+        [
+          "SNAPC1",
+          "SNAPC3"
+        ],
+        [
+          "SNAPC1",
+          "SNAPC4"
+        ],
+        [
+          "SNAPC1",
+          "SNAPC5"
+        ],
+        [
+          "SNAPC2",
+          "SNAPC3"
+        ],
+        [
+          "SNAPC2",
+          "SNAPC4"
+        ],
+        [
+          "SNAPC2",
+          "SNAPC5"
+        ],
+        [
+          "SNAPC3",
+          "SNAPC4"
+        ],
+        [
+          "SNAPC3",
+          "SNAPC5"
+        ],
+        [
+          "SNAPC4",
+          "SNAPC5"
+        ]
+      ]
+    },
+    {
+      "assoc_cluster_id": 35,
+      "size": 5,
+      "member_genes": [
+        "ALYREF",
+        "THOC1",
+        "THOC2",
+        "THOC5",
+        "THOC7"
+      ],
+      "mean_expr_cosine": 0.6829444766044617,
+      "mean_assoc_cosine": 0.7217236757278442,
+      "pct_noise_in_expr": 0.6,
+      "n_expr_clusters_spanned": 1,
+      "is_pam_specific": "True",
+      "n_internal_string_edges": 10,
+      "total_possible_edges": 10,
+      "string_density": 1.0,
+      "background_density": 0.024357323833542024,
+      "string_enrichment": 41.05541342858522,
+      "top_string_edges": [
+        [
+          "ALYREF",
+          "THOC1"
+        ],
+        [
+          "ALYREF",
+          "THOC2"
+        ],
+        [
+          "ALYREF",
+          "THOC5"
+        ],
+        [
+          "ALYREF",
+          "THOC7"
+        ],
+        [
+          "THOC1",
+          "THOC2"
+        ],
+        [
+          "THOC1",
+          "THOC5"
+        ],
+        [
+          "THOC1",
+          "THOC7"
+        ],
+        [
+          "THOC2",
+          "THOC5"
+        ],
+        [
+          "THOC2",
+          "THOC7"
+        ],
+        [
+          "THOC5",
+          "THOC7"
+        ]
+      ]
+    }
+  ],
+  "hdbscan_params": {
+    "min_cluster_size": 5,
+    "min_samples": 3
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "25000": {
+    "n_pairs": 25000,
+    "co_lethality_min": 3223.83251953125,
+    "co_lethality_mean": 5011.30859375,
+    "co_lethality_max": 11395.763671875,
+    "cosine_mean": 0.053611233830451965,
+    "cosine_std": 0.21780353784561157,
+    "cross_boundary_frac_0.2": 0.683,
+    "cross_boundary_frac_0.1": 0.41064,
+    "cross_boundary_frac_0.3": 0.84008,
+    "cosine_baseline_auc": 0.561718208,
+    "cross_boundary_cosine_auc": 0.5339994669144614
+  },
+  "50000": {
+    "n_pairs": 50000,
+    "co_lethality_min": 1937.703125,
+    "co_lethality_mean": 3751.586181640625,
+    "co_lethality_max": 11395.763671875,
+    "cosine_mean": 0.037849899381399155,
+    "cosine_std": 0.21567358076572418,
+    "cross_boundary_frac_0.2": 0.68644,
+    "cross_boundary_frac_0.1": 0.40854,
+    "cross_boundary_frac_0.3": 0.84434,
+    "cosine_baseline_auc": 0.5403616111999999,
+    "cross_boundary_cosine_auc": 0.5266955576438803
+  },
+  "100000": {
+    "n_pairs": 100000,
+    "co_lethality_min": 1069.58154296875,
+    "co_lethality_mean": 2578.30859375,
+    "co_lethality_max": 11395.763671875,
+    "cosine_mean": 0.025426987558603287,
+    "cosine_std": 0.21322472393512726,
+    "cross_boundary_frac_0.2": 0.68922,
+    "cross_boundary_frac_0.1": 0.40804,
+    "cross_boundary_frac_0.3": 0.84782,
+    "cosine_baseline_auc": 0.52586369935,
+    "cross_boundary_cosine_auc": 0.5226085173824506
+  },
+  "200000": {
+    "n_pairs": 200000,
+    "co_lethality_min": 633.4512329101562,
+    "co_lethality_mean": 1691.672119140625,
+    "co_lethality_max": 11395.763671875,
+    "cosine_mean": 0.015706826001405716,
+    "cosine_std": 0.21150653064250946,
+    "cross_boundary_frac_0.2": 0.68903,
+    "cross_boundary_frac_0.1": 0.405735,
+    "cross_boundary_frac_0.3": 0.8501,
+    "cosine_baseline_auc": 0.5151620143625,
+    "cross_boundary_cosine_auc": 0.5171438603266655
+  }
+}

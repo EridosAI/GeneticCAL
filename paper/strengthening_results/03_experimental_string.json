@@ -1,0 +1,36 @@
+{
+  "pair_counts": {
+    "experimental_400": 35266,
+    "experimental_700": 23438
+  },
+  "channel_purity_exp700": {
+    "pct_textmining_gt0": 0.8763119720112638,
+    "pct_coexpression_gt0": 0.9694513183718747,
+    "pct_in_combined900": 0.7914924481611059
+  },
+  "experimental_700": {
+    "cosine_auc": 0.7071128735386978,
+    "assoc_only_auc": 0.9069136756549194,
+    "auc_lam_0.9": 0.883752257018517,
+    "cb_cosine_auc": 0.5173367589709236,
+    "cb_assoc_auc": 0.9022589581104131,
+    "cb_auc_lam_0.9": 0.8965780027272492,
+    "cb_n_pos": 4288,
+    "n_pairs": 23438,
+    "train_acc": 0.04552436214694087,
+    "alpha": 0.4896344840526581
+  },
+  "experimental_400": {
+    "cosine_auc": 0.6315281475075143,
+    "assoc_only_auc": 0.8536642465831112,
+    "auc_lam_0.9": 0.8165092539556513,
+    "cb_cosine_auc": 0.5216044749676506,
+    "cb_assoc_auc": 0.8475581790864404,
+    "cb_auc_lam_0.9": 0.8431454011805287,
+    "cb_n_pos": 8485,
+    "n_pairs": 35266,
+    "train_acc": 0.03516134520501333,
+    "alpha": 0.47832924127578735
+  },
+  "elapsed_seconds": 178.8732545375824
+}

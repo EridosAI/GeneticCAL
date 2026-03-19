@@ -1,0 +1,67 @@
+{
+  "10000": {
+    "n_pairs": 10000,
+    "co_lethality_min": 2096.57666015625,
+    "co_lethality_mean": 3800.74169921875,
+    "co_lethality_max": 10603.5361328125,
+    "cosine_mean": 0.04091593623161316,
+    "cosine_std": 0.18599636852741241,
+    "cross_boundary_frac_0.2": 0.7439,
+    "cross_boundary_frac_0.1": 0.4541,
+    "cross_boundary_frac_0.3": 0.8862,
+    "cosine_baseline_auc": 0.55094658,
+    "cross_boundary_cosine_auc": 0.5205874342402048
+  },
+  "25000": {
+    "n_pairs": 25000,
+    "co_lethality_min": 968.752685546875,
+    "co_lethality_mean": 2346.206787109375,
+    "co_lethality_max": 10603.5361328125,
+    "cosine_mean": 0.019058894366025925,
+    "cosine_std": 0.17631009221076965,
+    "cross_boundary_frac_0.2": 0.76784,
+    "cross_boundary_frac_0.1": 0.48044,
+    "cross_boundary_frac_0.3": 0.90408,
+    "cosine_baseline_auc": 0.5183465544,
+    "cross_boundary_cosine_auc": 0.5016998435141935
+  },
+  "50000": {
+    "n_pairs": 50000,
+    "co_lethality_min": 571.406982421875,
+    "co_lethality_mean": 1537.1807861328125,
+    "co_lethality_max": 10603.5361328125,
+    "cosine_mean": 0.004109032452106476,
+    "cosine_std": 0.16931535303592682,
+    "cross_boundary_frac_0.2": 0.7828,
+    "cross_boundary_frac_0.1": 0.49906,
+    "cross_boundary_frac_0.3": 0.91646,
+    "cosine_baseline_auc": 0.49611441200000006,
+    "cross_boundary_cosine_auc": 0.4889268299516818
+  },
+  "100000": {
+    "n_pairs": 100000,
+    "co_lethality_min": 338.105224609375,
+    "co_lethality_mean": 985.2051391601562,
+    "co_lethality_max": 10603.5361328125,
+    "cosine_mean": -0.006940808147192001,
+    "cosine_std": 0.16422845423221588,
+    "cross_boundary_frac_0.2": 0.79223,
+    "cross_boundary_frac_0.1": 0.50734,
+    "cross_boundary_frac_0.3": 0.92412,
+    "cosine_baseline_auc": 0.47555877960000004,
+    "cross_boundary_cosine_auc": 0.4755251698148637
+  },
+  "200000": {
+    "n_pairs": 200000,
+    "co_lethality_min": 180.871337890625,
+    "co_lethality_mean": 615.3677368164062,
+    "co_lethality_max": 10603.5361328125,
+    "cosine_mean": -0.01147083006799221,
+    "cosine_std": 0.16212566196918488,
+    "cross_boundary_frac_0.2": 0.79654,
+    "cross_boundary_frac_0.1": 0.5132,
+    "cross_boundary_frac_0.3": 0.926265,
+    "cosine_baseline_auc": 0.4652820559875,
+    "cross_boundary_cosine_auc": 0.4661628531549128
+  }
+}

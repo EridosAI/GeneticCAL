@@ -1,0 +1,1009 @@
+{
+  "expression_clusters": {
+    "total": 36,
+    "coherent": 35,
+    "partial": 1,
+    "no_signal": 0,
+    "pct_coherent": 0.9722222222222222,
+    "per_cluster": [
+      {
+        "cluster_id": 0,
+        "size": 8,
+        "classification": "coherent",
+        "n_enrichments": 153,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "chaperone mediated protein folding independent of cofactor",
+            "p_value": 1.100967304316476e-27,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:CC",
+            "term": "chaperonin-containing T-complex",
+            "p_value": 4.332220647896091e-27,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:BP",
+            "term": "positive regulation of telomerase RNA localization to Cajal body",
+            "p_value": 9.908705738848354e-27,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 1,
+        "size": 12,
+        "classification": "coherent",
+        "n_enrichments": 110,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "exosome (RNase complex)",
+            "p_value": 6.07589641405786e-28,
+            "coverage": 0.8333333333333334
+          },
+          {
+            "source": "GO:CC",
+            "term": "exoribonuclease complex",
+            "p_value": 7.923490940977957e-27,
+            "coverage": 0.8333333333333334
+          },
+          {
+            "source": "GO:CC",
+            "term": "cytoplasmic exosome (RNase complex)",
+            "p_value": 1.3887608474923973e-26,
+            "coverage": 0.75
+          }
+        ]
+      },
+      {
+        "cluster_id": 2,
+        "size": 7,
+        "classification": "coherent",
+        "n_enrichments": 39,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "protein deneddylation",
+            "p_value": 9.163927780693453e-22,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:BP",
+            "term": "regulation of protein neddylation",
+            "p_value": 2.1526899441192848e-19,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:CC",
+            "term": "COP9 signalosome",
+            "p_value": 2.0461407822079173e-18,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 3,
+        "size": 10,
+        "classification": "coherent",
+        "n_enrichments": 39,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "mRNA cleavage factor complex",
+            "p_value": 2.835417509711076e-28,
+            "coverage": 1.0
+          },
+          {
+            "source": "REAC",
+            "term": "Processing of Intronless Pre-mRNAs",
+            "p_value": 3.5522286463355635e-27,
+            "coverage": 1.0
+          },
+          {
+            "source": "REAC",
+            "term": "Processing of Capped Intronless Pre-mRNA",
+            "p_value": 5.046254224058975e-25,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 4,
+        "size": 6,
+        "classification": "coherent",
+        "n_enrichments": 39,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+            "p_value": 2.9246165098627126e-07,
+            "coverage": 0.6666666666666666
+          },
+          {
+            "source": "GO:BP",
+            "term": "mRNA export from nucleus",
+            "p_value": 1.5007802698206345e-06,
+            "coverage": 0.6666666666666666
+          },
+          {
+            "source": "GO:CC",
+            "term": "exon-exon junction complex",
+            "p_value": 2.705425582480908e-06,
+            "coverage": 0.5
+          }
+        ]
+      },
+      {
+        "cluster_id": 5,
+        "size": 6,
+        "classification": "coherent",
+        "n_enrichments": 13,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "U12-type spliceosomal complex",
+            "p_value": 2.011101227226019e-12,
+            "coverage": 0.8333333333333334
+          },
+          {
+            "source": "REAC",
+            "term": "mRNA Splicing - Minor Pathway",
+            "p_value": 2.529143059655844e-10,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:CC",
+            "term": "spliceosomal complex",
+            "p_value": 8.025655221819469e-08,
+            "coverage": 0.8333333333333334
+          }
+        ]
+      },
+      {
+        "cluster_id": 6,
+        "size": 36,
+        "classification": "coherent",
+        "n_enrichments": 240,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "proteasome complex",
+            "p_value": 2.5158172534296763e-68,
+            "coverage": 0.8285714285714286
+          },
+          {
+            "source": "KEGG",
+            "term": "Proteasome",
+            "p_value": 6.245801458226867e-67,
+            "coverage": 0.9354838709677419
+          },
+          {
+            "source": "REAC",
+            "term": "Cross-presentation of soluble exogenous antigens (endosomes)",
+            "p_value": 2.3652572261597716e-66,
+            "coverage": 0.8787878787878788
+          }
+        ]
+      },
+      {
+        "cluster_id": 7,
+        "size": 6,
+        "classification": "coherent",
+        "n_enrichments": 90,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "transcription factor TFIID complex",
+            "p_value": 1.208951122153567e-14,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:MF",
+            "term": "RNA polymerase II general transcription initiation factor activity",
+            "p_value": 2.7988232785165097e-14,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:BP",
+            "term": "mRNA transcription by RNA polymerase II",
+            "p_value": 7.994485082794671e-14,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 8,
+        "size": 7,
+        "classification": "coherent",
+        "n_enrichments": 47,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "Swr1 complex",
+            "p_value": 8.707712853934612e-07,
+            "coverage": 0.42857142857142855
+          },
+          {
+            "source": "GO:CC",
+            "term": "INO80-type complex",
+            "p_value": 9.954031704242759e-06,
+            "coverage": 0.42857142857142855
+          },
+          {
+            "source": "GO:CC",
+            "term": "NuA4 histone acetyltransferase complex",
+            "p_value": 1.233284881861445e-05,
+            "coverage": 0.42857142857142855
+          }
+        ]
+      },
+      {
+        "cluster_id": 9,
+        "size": 6,
+        "classification": "coherent",
+        "n_enrichments": 15,
+        "top3": [
+          {
+            "source": "REAC",
+            "term": "Signaling by cytosolic FGFR1 fusion mutants",
+            "p_value": 0.006673959908077289,
+            "coverage": 0.3333333333333333
+          },
+          {
+            "source": "GO:CC",
+            "term": "postsynaptic density",
+            "p_value": 0.01477991049233252,
+            "coverage": 0.5
+          },
+          {
+            "source": "GO:CC",
+            "term": "asymmetric synapse",
+            "p_value": 0.016835939266402727,
+            "coverage": 0.5
+          }
+        ]
+      },
+      {
+        "cluster_id": 10,
+        "size": 16,
+        "classification": "coherent",
+        "n_enrichments": 166,
+        "top3": [
+          {
+            "source": "GO:MF",
+            "term": "structural constituent of nuclear pore",
+            "p_value": 2.1676778625169974e-24,
+            "coverage": 0.625
+          },
+          {
+            "source": "GO:CC",
+            "term": "nuclear pore",
+            "p_value": 6.2266458432588646e-24,
+            "coverage": 0.75
+          },
+          {
+            "source": "GO:BP",
+            "term": "mRNA transport",
+            "p_value": 7.976016424272267e-24,
+            "coverage": 0.8125
+          }
+        ]
+      },
+      {
+        "cluster_id": 11,
+        "size": 8,
+        "classification": "coherent",
+        "n_enrichments": 51,
+        "top3": [
+          {
+            "source": "KEGG",
+            "term": "Protein export",
+            "p_value": 1.4418257347472174e-09,
+            "coverage": 0.625
+          },
+          {
+            "source": "GO:BP",
+            "term": "protein localization to endoplasmic reticulum",
+            "p_value": 1.7502263027592122e-07,
+            "coverage": 0.75
+          },
+          {
+            "source": "GO:BP",
+            "term": "intracellular protein transmembrane transport",
+            "p_value": 2.8065787421985814e-07,
+            "coverage": 0.5
+          }
+        ]
+      },
+      {
+        "cluster_id": 12,
+        "size": 25,
+        "classification": "coherent",
+        "n_enrichments": 132,
+        "top3": [
+          {
+            "source": "REAC",
+            "term": "Formation of the Early Elongation Complex",
+            "p_value": 1.7975508501917971e-22,
+            "coverage": 0.6111111111111112
+          },
+          {
+            "source": "REAC",
+            "term": "Formation of the HIV-1 Early Elongation Complex",
+            "p_value": 1.7975508501917971e-22,
+            "coverage": 0.6111111111111112
+          },
+          {
+            "source": "GO:CC",
+            "term": "DNA-directed RNA polymerase complex",
+            "p_value": 1.533857599413417e-21,
+            "coverage": 0.52
+          }
+        ]
+      },
+      {
+        "cluster_id": 13,
+        "size": 20,
+        "classification": "coherent",
+        "n_enrichments": 114,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "core mediator complex",
+            "p_value": 5.052338495460209e-45,
+            "coverage": 0.8421052631578947
+          },
+          {
+            "source": "GO:CC",
+            "term": "mediator complex",
+            "p_value": 1.1431951329052728e-44,
+            "coverage": 0.8947368421052632
+          },
+          {
+            "source": "GO:BP",
+            "term": "positive regulation of transcription initiation by RNA polymerase II",
+            "p_value": 3.3174727580967396e-40,
+            "coverage": 0.9444444444444444
+          }
+        ]
+      },
+      {
+        "cluster_id": 14,
+        "size": 8,
+        "classification": "coherent",
+        "n_enrichments": 51,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "H4 histone acetyltransferase complex",
+            "p_value": 7.160423594758074e-11,
+            "coverage": 0.7142857142857143
+          },
+          {
+            "source": "GO:CC",
+            "term": "NSL complex",
+            "p_value": 1.8158317550094444e-10,
+            "coverage": 0.5714285714285714
+          },
+          {
+            "source": "GO:CC",
+            "term": "histone acetyltransferase complex",
+            "p_value": 3.6446141127236835e-09,
+            "coverage": 0.7142857142857143
+          }
+        ]
+      },
+      {
+        "cluster_id": 15,
+        "size": 7,
+        "classification": "coherent",
+        "n_enrichments": 144,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "proton-transporting V-type ATPase complex",
+            "p_value": 8.843085255756806e-12,
+            "coverage": 0.7142857142857143
+          },
+          {
+            "source": "GO:CC",
+            "term": "clathrin-coated vesicle membrane",
+            "p_value": 5.035967089538362e-11,
+            "coverage": 0.8571428571428571
+          },
+          {
+            "source": "GO:CC",
+            "term": "cation-transporting ATPase complex",
+            "p_value": 1.4178216824744096e-10,
+            "coverage": 0.7142857142857143
+          }
+        ]
+      },
+      {
+        "cluster_id": 16,
+        "size": 9,
+        "classification": "coherent",
+        "n_enrichments": 8,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "CAF-1 complex",
+            "p_value": 4.050673874254982e-05,
+            "coverage": 0.2857142857142857
+          },
+          {
+            "source": "GO:CC",
+            "term": "histone pre-mRNA 3'end processing complex",
+            "p_value": 0.00020244225500550312,
+            "coverage": 0.2857142857142857
+          },
+          {
+            "source": "REAC",
+            "term": "SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs",
+            "p_value": 0.0004989105561963297,
+            "coverage": 0.6666666666666666
+          }
+        ]
+      },
+      {
+        "cluster_id": 17,
+        "size": 46,
+        "classification": "coherent",
+        "n_enrichments": 273,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "DNA replication",
+            "p_value": 2.7857524685035148e-56,
+            "coverage": 0.782608695652174
+          },
+          {
+            "source": "GO:BP",
+            "term": "DNA-templated DNA replication",
+            "p_value": 7.719281238009251e-53,
+            "coverage": 0.6739130434782609
+          },
+          {
+            "source": "REAC",
+            "term": "DNA strand elongation",
+            "p_value": 4.537483462445765e-44,
+            "coverage": 0.525
+          }
+        ]
+      },
+      {
+        "cluster_id": 18,
+        "size": 13,
+        "classification": "coherent",
+        "n_enrichments": 117,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "metaphase chromosome alignment",
+            "p_value": 1.1820147696069769e-15,
+            "coverage": 0.6923076923076923
+          },
+          {
+            "source": "REAC",
+            "term": "Amplification of signal from the kinetochores",
+            "p_value": 2.2115346169267835e-15,
+            "coverage": 0.8181818181818182
+          },
+          {
+            "source": "REAC",
+            "term": "Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal",
+            "p_value": 2.2115346169267835e-15,
+            "coverage": 0.8181818181818182
+          }
+        ]
+      },
+      {
+        "cluster_id": 19,
+        "size": 19,
+        "classification": "coherent",
+        "n_enrichments": 67,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "U2-type precatalytic spliceosome",
+            "p_value": 2.1714612244105828e-32,
+            "coverage": 0.7368421052631579
+          },
+          {
+            "source": "GO:CC",
+            "term": "precatalytic spliceosome",
+            "p_value": 1.3423092267079005e-31,
+            "coverage": 0.7368421052631579
+          },
+          {
+            "source": "GO:CC",
+            "term": "U2-type spliceosomal complex",
+            "p_value": 3.9978059279005485e-28,
+            "coverage": 0.7368421052631579
+          }
+        ]
+      },
+      {
+        "cluster_id": 20,
+        "size": 12,
+        "classification": "coherent",
+        "n_enrichments": 62,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "methylosome",
+            "p_value": 4.4813443081086465e-13,
+            "coverage": 0.5555555555555556
+          },
+          {
+            "source": "GO:BP",
+            "term": "7-methylguanosine cap hypermethylation",
+            "p_value": 4.791112217940986e-13,
+            "coverage": 0.5
+          },
+          {
+            "source": "GO:CC",
+            "term": "SMN-Sm protein complex",
+            "p_value": 2.9811389237368642e-12,
+            "coverage": 0.5555555555555556
+          }
+        ]
+      },
+      {
+        "cluster_id": 21,
+        "size": 16,
+        "classification": "coherent",
+        "n_enrichments": 48,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "spliceosomal complex",
+            "p_value": 5.098884334224414e-25,
+            "coverage": 0.875
+          },
+          {
+            "source": "REAC",
+            "term": "mRNA Splicing - Major Pathway",
+            "p_value": 1.7095309437112654e-24,
+            "coverage": 1.0
+          },
+          {
+            "source": "REAC",
+            "term": "mRNA Splicing",
+            "p_value": 2.902266776157646e-24,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 22,
+        "size": 7,
+        "classification": "coherent",
+        "n_enrichments": 52,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "U2-type prespliceosome assembly",
+            "p_value": 1.3348788133876911e-18,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:CC",
+            "term": "U2-type precatalytic spliceosome",
+            "p_value": 3.0392882220049354e-17,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:CC",
+            "term": "precatalytic spliceosome",
+            "p_value": 7.056795879016208e-17,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 23,
+        "size": 5,
+        "classification": "partial",
+        "n_enrichments": 1,
+        "top3": [
+          {
+            "source": "GO:MF",
+            "term": "protoheme IX farnesyltransferase activity",
+            "p_value": 0.04999238116117376,
+            "coverage": 0.2
+          }
+        ]
+      },
+      {
+        "cluster_id": 24,
+        "size": 13,
+        "classification": "coherent",
+        "n_enrichments": 168,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "ESCRT complex",
+            "p_value": 7.166515516404087e-13,
+            "coverage": 0.46153846153846156
+          },
+          {
+            "source": "GO:CC",
+            "term": "COPI vesicle coat",
+            "p_value": 4.31728077352065e-12,
+            "coverage": 0.38461538461538464
+          },
+          {
+            "source": "GO:BP",
+            "term": "multivesicular body assembly",
+            "p_value": 1.739334698228602e-11,
+            "coverage": 0.46153846153846156
+          }
+        ]
+      },
+      {
+        "cluster_id": 25,
+        "size": 15,
+        "classification": "coherent",
+        "n_enrichments": 73,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "transcription by RNA polymerase I",
+            "p_value": 1.4438031017201485e-26,
+            "coverage": 0.9230769230769231
+          },
+          {
+            "source": "REAC",
+            "term": "RNA Polymerase I Transcription Initiation",
+            "p_value": 2.4319445270927774e-14,
+            "coverage": 0.6153846153846154
+          },
+          {
+            "source": "REAC",
+            "term": "RNA Polymerase I Transcription Termination",
+            "p_value": 3.743485664470308e-13,
+            "coverage": 0.5384615384615384
+          }
+        ]
+      },
+      {
+        "cluster_id": 26,
+        "size": 5,
+        "classification": "coherent",
+        "n_enrichments": 16,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "tRNA wobble uridine modification",
+            "p_value": 1.1594981178330973e-09,
+            "coverage": 0.8
+          },
+          {
+            "source": "GO:BP",
+            "term": "tRNA wobble base modification",
+            "p_value": 2.360137270873535e-09,
+            "coverage": 0.8
+          },
+          {
+            "source": "GO:BP",
+            "term": "tRNA processing",
+            "p_value": 9.322660116012969e-09,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 27,
+        "size": 108,
+        "classification": "coherent",
+        "n_enrichments": 198,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "ribosome biogenesis",
+            "p_value": 5.683887892073026e-132,
+            "coverage": 0.8058252427184466
+          },
+          {
+            "source": "GO:BP",
+            "term": "ribosomal small subunit biogenesis",
+            "p_value": 1.8501543036155576e-124,
+            "coverage": 0.6116504854368932
+          },
+          {
+            "source": "REAC",
+            "term": "rRNA processing in the nucleus and cytosol",
+            "p_value": 1.80927999549281e-116,
+            "coverage": 0.8470588235294118
+          }
+        ]
+      },
+      {
+        "cluster_id": 28,
+        "size": 485,
+        "classification": "coherent",
+        "n_enrichments": 67,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "nucleoplasm",
+            "p_value": 1.2411548225913554e-18,
+            "coverage": 0.4085714285714286
+          },
+          {
+            "source": "GO:CC",
+            "term": "intracellular organelle lumen",
+            "p_value": 2.7175552050246486e-13,
+            "coverage": 0.5057142857142857
+          },
+          {
+            "source": "GO:CC",
+            "term": "organelle lumen",
+            "p_value": 2.7175552050246486e-13,
+            "coverage": 0.5057142857142857
+          }
+        ]
+      },
+      {
+        "cluster_id": 29,
+        "size": 5,
+        "classification": "coherent",
+        "n_enrichments": 13,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "nucleoid",
+            "p_value": 1.9650719364513272e-08,
+            "coverage": 0.8
+          },
+          {
+            "source": "GO:CC",
+            "term": "mitochondrial nucleoid",
+            "p_value": 1.9650719364513272e-08,
+            "coverage": 0.8
+          },
+          {
+            "source": "GO:BP",
+            "term": "mitochondrial gene expression",
+            "p_value": 1.550942086506747e-05,
+            "coverage": 0.8
+          }
+        ]
+      },
+      {
+        "cluster_id": 30,
+        "size": 20,
+        "classification": "coherent",
+        "n_enrichments": 37,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "ribosomal large subunit biogenesis",
+            "p_value": 2.579650920316621e-20,
+            "coverage": 0.5789473684210527
+          },
+          {
+            "source": "GO:BP",
+            "term": "ribosome biogenesis",
+            "p_value": 4.768948592969445e-19,
+            "coverage": 0.7368421052631579
+          },
+          {
+            "source": "GO:CC",
+            "term": "nucleolus",
+            "p_value": 2.1290300709324172e-13,
+            "coverage": 0.85
+          }
+        ]
+      },
+      {
+        "cluster_id": 31,
+        "size": 28,
+        "classification": "coherent",
+        "n_enrichments": 93,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "cytosolic large ribosomal subunit",
+            "p_value": 1.1723665584106118e-70,
+            "coverage": 0.9642857142857143
+          },
+          {
+            "source": "GO:CC",
+            "term": "large ribosomal subunit",
+            "p_value": 3.38863784294887e-60,
+            "coverage": 0.9642857142857143
+          },
+          {
+            "source": "GO:CC",
+            "term": "cytosolic ribosome",
+            "p_value": 4.428139781353392e-60,
+            "coverage": 0.9642857142857143
+          }
+        ]
+      },
+      {
+        "cluster_id": 32,
+        "size": 14,
+        "classification": "coherent",
+        "n_enrichments": 42,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "organellar small ribosomal subunit",
+            "p_value": 3.420825032833752e-35,
+            "coverage": 0.9285714285714286
+          },
+          {
+            "source": "GO:CC",
+            "term": "mitochondrial small ribosomal subunit",
+            "p_value": 3.420825032833752e-35,
+            "coverage": 0.9285714285714286
+          },
+          {
+            "source": "GO:CC",
+            "term": "small ribosomal subunit",
+            "p_value": 5.619944878510162e-30,
+            "coverage": 0.9285714285714286
+          }
+        ]
+      },
+      {
+        "cluster_id": 33,
+        "size": 46,
+        "classification": "coherent",
+        "n_enrichments": 110,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "inner mitochondrial membrane protein complex",
+            "p_value": 4.841986897046231e-17,
+            "coverage": 0.30303030303030304
+          },
+          {
+            "source": "GO:CC",
+            "term": "mitochondrial protein-containing complex",
+            "p_value": 5.882551742700366e-17,
+            "coverage": 0.3939393939393939
+          },
+          {
+            "source": "REAC",
+            "term": "Recycling of eIF2:GDP",
+            "p_value": 1.150583633411144e-15,
+            "coverage": 0.2413793103448276
+          }
+        ]
+      },
+      {
+        "cluster_id": 34,
+        "size": 5,
+        "classification": "coherent",
+        "n_enrichments": 83,
+        "top3": [
+          {
+            "source": "GO:BP",
+            "term": "aerobic electron transport chain",
+            "p_value": 1.0782725604841723e-09,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:BP",
+            "term": "ATP synthesis coupled electron transport",
+            "p_value": 1.6583666799161018e-09,
+            "coverage": 1.0
+          },
+          {
+            "source": "GO:BP",
+            "term": "mitochondrial ATP synthesis coupled electron transport",
+            "p_value": 1.6583666799161018e-09,
+            "coverage": 1.0
+          }
+        ]
+      },
+      {
+        "cluster_id": 35,
+        "size": 29,
+        "classification": "coherent",
+        "n_enrichments": 50,
+        "top3": [
+          {
+            "source": "GO:CC",
+            "term": "organellar large ribosomal subunit",
+            "p_value": 1.6768088386741108e-69,
+            "coverage": 0.9310344827586207
+          },
+          {
+            "source": "GO:CC",
+            "term": "mitochondrial large ribosomal subunit",
+            "p_value": 1.6768088386741108e-69,
+            "coverage": 0.9310344827586207
+          },
+          {
+            "source": "GO:CC",
+            "term": "organellar ribosome",
+            "p_value": 2.1059629800204846e-62,
+            "coverage": 0.9310344827586207
+          }
+        ]
+      }
+    ]
+  },
+  "pam_specific_reference": {
+    "total": 22,
+    "coherent": 22,
+    "pct_coherent": 1.0
+  },
+  "random_baseline": {
+    "n_clusters_per_rep": 34,
+    "n_repeats": 10,
+    "mean_coherent": 13.8,
+    "std_coherent": 1.4000000000000001,
+    "per_repeat": [
+      {
+        "repeat": 0,
+        "coherent": 15,
+        "partial": 9,
+        "no_signal": 10
+      },
+      {
+        "repeat": 1,
+        "coherent": 12,
+        "partial": 7,
+        "no_signal": 15
+      },
+      {
+        "repeat": 2,
+        "coherent": 14,
+        "partial": 9,
+        "no_signal": 11
+      },
+      {
+        "repeat": 3,
+        "coherent": 13,
+        "partial": 16,
+        "no_signal": 5
+      },
+      {
+        "repeat": 4,
+        "coherent": 11,
+        "partial": 16,
+        "no_signal": 7
+      },
+      {
+        "repeat": 5,
+        "coherent": 14,
+        "partial": 14,
+        "no_signal": 6
+      },
+      {
+        "repeat": 6,
+        "coherent": 15,
+        "partial": 7,
+        "no_signal": 12
+      },
+      {
+        "repeat": 7,
+        "coherent": 14,
+        "partial": 11,
+        "no_signal": 9
+      },
+      {
+        "repeat": 8,
+        "coherent": 16,
+        "partial": 7,
+        "no_signal": 11
+      },
+      {
+        "repeat": 9,
+        "coherent": 14,
+        "partial": 11,
+        "no_signal": 9
+      }
+    ]
+  },
+  "elapsed_seconds": 622.4125447273254
+}

@@ -1,0 +1,117 @@
+{
+  "pca_dim": 50,
+  "n_perturbation_genes": 2058,
+  "thresholds": {
+    "low": {
+      "min_score": 400,
+      "n_pairs": 93562,
+      "mean_cosine": 0.18727365054132952,
+      "median_cosine": 0.1407102569937706,
+      "std_cosine": 0.415699506360736,
+      "n_cross_boundary_02": 32631,
+      "pct_cross_boundary_02": 34.87633868450867,
+      "n_cross_boundary_01": 17209,
+      "pct_cross_boundary_01": 18.393151065603558,
+      "n_high_cosine": 24607,
+      "pct_high_cosine": 26.300207349137473
+    },
+    "medium": {
+      "min_score": 700,
+      "n_pairs": 41434,
+      "mean_cosine": 0.3055780259853137,
+      "median_cosine": 0.32464689016342163,
+      "std_cosine": 0.44941712764502356,
+      "n_cross_boundary_02": 10589,
+      "pct_cross_boundary_02": 25.556306415021478,
+      "n_cross_boundary_01": 5552,
+      "pct_cross_boundary_01": 13.399623497610659,
+      "n_high_cosine": 16515,
+      "pct_high_cosine": 39.858570256311246
+    },
+    "high": {
+      "min_score": 900,
+      "n_pairs": 23268,
+      "mean_cosine": 0.38943107566071905,
+      "median_cosine": 0.5049870312213898,
+      "std_cosine": 0.46259124798975615,
+      "n_cross_boundary_02": 4702,
+      "pct_cross_boundary_02": 20.20801100223483,
+      "n_cross_boundary_01": 2372,
+      "pct_cross_boundary_01": 10.194258208698642,
+      "n_high_cosine": 11679,
+      "pct_high_cosine": 50.19339865910263
+    }
+  },
+  "auc": {
+    "low": {
+      "auc": 0.5702733941129946,
+      "n_pos": 93562,
+      "n_neg": 50000,
+      "pos_mean": 0.18727365054132952,
+      "neg_mean": 0.08479778968128103
+    },
+    "medium": {
+      "auc": 0.6441984640633296,
+      "n_pos": 41434,
+      "n_neg": 50000,
+      "pos_mean": 0.3055780259853137,
+      "neg_mean": 0.08476933120712307
+    },
+    "high": {
+      "auc": 0.6923939603747636,
+      "n_pos": 23268,
+      "n_neg": 50000,
+      "pos_mean": 0.38943107566071905,
+      "neg_mean": 0.08540495398963238
+    }
+  },
+  "evidence_channels": {
+    "experimental": {
+      "n_pairs": 35560,
+      "mean_cosine": 0.3210002224891682,
+      "pct_cross_boundary": 23.953880764904387,
+      "mean_score": 709.4060179977503
+    },
+    "database": {
+      "n_pairs": 16064,
+      "mean_cosine": 0.3719738607295218,
+      "pct_cross_boundary": 25.821713147410357,
+      "mean_score": 669.0657993027888
+    },
+    "textmining": {
+      "n_pairs": 37149,
+      "mean_cosine": 0.30681540134249247,
+      "pct_cross_boundary": 25.505397184311825,
+      "mean_score": 419.6023311529247
+    },
+    "coexpression": {
+      "n_pairs": 40130,
+      "mean_cosine": 0.3070889808219503,
+      "pct_cross_boundary": 25.39247445801146,
+      "mean_score": 404.8657363568403
+    },
+    "neighborhood": {
+      "n_pairs": 4897,
+      "mean_cosine": 0.17989268984938647,
+      "pct_cross_boundary": 24.014702879313866,
+      "mean_score": 89.00592199305697
+    },
+    "fusion": {
+      "n_pairs": 265,
+      "mean_cosine": 0.1993233404385875,
+      "pct_cross_boundary": 35.094339622641506,
+      "mean_score": 247.3924528301887
+    },
+    "cooccurence": {
+      "n_pairs": 306,
+      "mean_cosine": 0.4580632880831509,
+      "pct_cross_boundary": 25.163398692810457,
+      "mean_score": 160.0032679738562
+    }
+  },
+  "random_baseline": {
+    "n_pairs": 2609470,
+    "mean_cosine": 0.08747832477092743,
+    "pct_cross_boundary_02": 38.92342123113123
+  }
+}

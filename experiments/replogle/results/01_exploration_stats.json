@@ -1,0 +1,14 @@
+{
+  "n_perturbations": 2285,
+  "n_genes": 8563,
+  "mean_effect_strength": 14.440252304077148,
+  "median_effect_strength": 12.257843971252441,
+  "cos_mean": 0.08756019175052643,
+  "cos_std": 0.38518574833869934,
+  "pct_high_cos": 18.052286479629963,
+  "pca_dims_tested": [
+    50,
+    128,
+    256
+  ]
+}
